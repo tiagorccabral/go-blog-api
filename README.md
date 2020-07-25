@@ -15,7 +15,13 @@ So to get it running simply run the command:
 docker-compose up
 ```
 
+By default, the server should now be running on:
+
+`http://localhost:8000/`
+
 To shut it down:
 ```
 docker-compose down
 ```
+
+By default
