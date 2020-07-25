@@ -1,7 +1,7 @@
 version: "3"
 services:
   app:
-    container_name: go-api-setup
+    container_name: go-blog-api
     build: .
     ports:
       - 8000:8000
