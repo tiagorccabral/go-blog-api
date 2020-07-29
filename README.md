@@ -8,6 +8,10 @@ This is a simple Blog API made with the Go programming language.
 
 ### How to run
 
+### Setup
+  - Clone Repo
+  - Update .env file
+
 #### Using Docker
 This project uses docker.
 So to get it running simply run the command:
