@@ -23,5 +23,3 @@ To shut it down:
 ```
 docker-compose down
 ```
-
-By default
