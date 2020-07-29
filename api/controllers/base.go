@@ -21,7 +21,8 @@ type Server struct {
 	Router *mux.Router
 }
 
-// Initialize server router and route handlers
+// Initialize server router and route handlers.
+// Params (string): Driver, User, Password, Port, Host, DBName
 func (server *Server) Initialize(DBDriver, DbUser, DbPassword, DbPort, DbHost, DbName string) {
 
 	var err error
